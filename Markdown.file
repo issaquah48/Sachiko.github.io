@@ -1,9 +1,0 @@
-{
-    "type": "fileList",
-    "content": {
-        "President01.json": "/home/charlie/Documents/Data/Presidents01.json",
-        "President02.json": "/home/charlie/Documents/Data/Presidents02.json",
-        "President03.md": "/home/charlie/Documents/Data/Presidents03.md",
-        "President04.md": "/home/charlie/Documents/Data/Presidents04.md"
-    }
-}
